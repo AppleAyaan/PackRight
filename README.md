@@ -1,6 +1,8 @@
 # 🧳 PackRight
 
-![PackRight Logo](assets/logo.png)
+<p align="center">
+  <img src="assets/logo.png" alt="PackRight Logo" width="150"/>
+</p>
 
 > *An iOS app that helps you decide what to wear for your trip — built with SwiftUI, Xcode, and live weather data.*
 
@@ -33,6 +35,24 @@ Built to explore **SwiftUI**, **API integration**, and **end-to-end iOS app deve
 
 ## 🎬 Demo
 check out the **promo ad** and live demo on my [LinkedIn](https://linkedin.com/in/ayaanfaisal) 👀  
+
+---
+
+## 🖼️ App Logo Preview
+here’s the official **PackRight logo** used in the app icon and promo visuals:
+
+<p align="center">
+  <img src="assets/logo_screenshot.png" alt="PackRight Logo on iPhone Homescreen" width="180"/>
+</p>
+
+---
+
+## 📱 Homescreen UI
+the **home screen** is where users pick their trip details and instantly see weather-based outfit suggestions — designed for a smooth, clean user flow:
+
+<p align="center">
+  <img src="assets/homescreen_screenshot.png" alt="PackRight Home Screen" width="300"/>
+</p>
 
 ---
 
