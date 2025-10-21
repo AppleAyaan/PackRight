@@ -34,7 +34,7 @@ Built to explore **SwiftUI**, **API integration**, and **end-to-end iOS app deve
 ---
 
 ## 🎬 Demo
-check out the **promo ad** and live demo on my [LinkedIn](https://linkedin.com/in/ayaanfaisal) 👀  
+check out the **promo ad** and live demo on my [LinkedIn](https://www.linkedin.com/posts/ayaanfaisal18_swiftui-iosdevelopment-figma-activity-7386449420067860480-Fe9M?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD-u3F0Bc7wik2LuFr2Uh1yWgcRkkCfwhQo) 👀  
 
 ---
 
