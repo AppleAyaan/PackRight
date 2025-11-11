@@ -48,7 +48,7 @@ here’s the official **PackRight logo** used in the app icon and promo visuals:
 ---
 
 ## 📱 Homescreen UI
-the **home screen** is where users pick their trip details and instantly see weather-based outfit suggestions — designed for a smooth, clean user flow:
+The **home screen** is where users pick their trip details and instantly see weather-based outfit suggestions — designed for a smooth, clean user flow:
 
 <p align="center">
   <img src="assets/homescreen_screenshot.png" alt="PackRight Home Screen" width="300"/>
